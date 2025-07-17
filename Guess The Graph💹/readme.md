@@ -9,7 +9,7 @@ Welcome to **Guess The Graph**, a fun and interactive game that helps beginners 
 ## 🎮 Live Demo
 
 👉 [Play it now on Bolt](https://bolt.new/~/sb1-nwxuykyd)  
-📸 [Screenshots folder](./screenshots) to get a quick peek
+📸 [Screenshots folder](https://github.com/itsmemauliii/My-Dev.io-Projects/tree/main/Guess%20The%20Graph💹/Screenshots) to get a quick peek
 
 ---
 
